@@ -16,7 +16,7 @@ public class FizzBuzz {
         return true;
     }
 
-    public String  calculateFizzBuzz(int value) {
+    public String calculateFizzBuzz(int value) {
 
         String answer = "";
 
